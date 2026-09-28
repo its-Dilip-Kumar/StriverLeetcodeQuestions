@@ -40,6 +40,7 @@
 | [0075-sort-colors](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0119-pascals-triangle-ii) |
+| [0152-maximum-product-subarray](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0200-number-of-islands) |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0119-pascals-triangle-ii) |
+| [0152-maximum-product-subarray](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0152-maximum-product-subarray) |
 | [0542-01-matrix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0542-01-matrix) |
 ## Hash Table
 |  |
