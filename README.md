@@ -42,6 +42,7 @@
 | [0169-majority-element](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0200-number-of-islands) |
+| [0229-majority-element-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0283-move-zeroes) |
 | [0542-01-matrix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0542-01-matrix) |
@@ -82,6 +83,7 @@
 | [0001-two-sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -96,6 +98,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -105,10 +108,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0229-majority-element-ii) |
 ## Graph Coloring
 |  |
 | ------- |
