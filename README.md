@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0075-sort-colors) |
@@ -69,6 +70,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0088-merge-sorted-array) |
