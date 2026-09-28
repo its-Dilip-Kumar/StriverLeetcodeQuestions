@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0073-set-matrix-zeroes) |
 | [0119-pascals-triangle-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0189-rotate-array) |
@@ -49,6 +50,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0733-flood-fill) |
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0268-missing-number) |
 ## Binary Search
