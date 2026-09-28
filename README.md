@@ -36,6 +36,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0075-sort-colors) |
 | [0119-pascals-triangle-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0189-rotate-array) |
@@ -64,6 +65,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -90,6 +92,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0268-missing-number) |
 ## Divide and Conquer
@@ -116,4 +119,12 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/2149-rearrange-array-elements-by-sign) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
