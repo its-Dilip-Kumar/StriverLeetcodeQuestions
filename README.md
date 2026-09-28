@@ -44,6 +44,7 @@
 | [0733-flood-fill](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1020-number-of-enclaves) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -105,4 +107,8 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0785-is-graph-bipartite) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
