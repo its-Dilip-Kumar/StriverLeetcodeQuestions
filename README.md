@@ -13,6 +13,7 @@
 | [0200-number-of-islands](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0210-course-schedule-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0785-is-graph-bipartite) |
@@ -200,6 +201,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -210,6 +212,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0543-diameter-of-binary-tree) |
 ## Database
 |  |
 | ------- |
@@ -223,4 +226,5 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
