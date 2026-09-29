@@ -55,6 +55,7 @@
 | [0073-set-matrix-zeroes](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0119-pascals-triangle-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0119-pascals-triangle-ii) |
 | [0130-surrounded-regions](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0152-maximum-product-subarray) |
@@ -106,6 +107,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0268-missing-number) |
@@ -129,6 +131,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -182,10 +185,12 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Database
 |  |
 | ------- |
