@@ -186,4 +186,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0100-same-tree) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
