@@ -289,4 +289,8 @@
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
