@@ -338,21 +338,25 @@
 | ------- |
 | [0038-count-and-say](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0151-reverse-words-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1392-longest-happy-prefix) |
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1392-longest-happy-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
@@ -362,9 +366,15 @@
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1392-longest-happy-prefix) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
