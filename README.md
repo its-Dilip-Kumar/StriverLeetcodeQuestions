@@ -336,5 +336,6 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
