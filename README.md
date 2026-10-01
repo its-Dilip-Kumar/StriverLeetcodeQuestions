@@ -339,20 +339,32 @@
 | [0038-count-and-say](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0151-reverse-words-in-a-string) |
 | [0686-repeated-string-match](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1392-longest-happy-prefix) |
 ## String Matching
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1392-longest-happy-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0686-repeated-string-match) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
