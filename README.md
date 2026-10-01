@@ -270,6 +270,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0234-palindrome-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## DP on Trees
 |  |
@@ -340,6 +341,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0686-repeated-string-match) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1392-longest-happy-prefix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1392-longest-happy-prefix) |
 ## String Matching
 |  |
@@ -377,4 +379,12 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0214-shortest-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
