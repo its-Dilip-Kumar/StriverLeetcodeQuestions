@@ -299,6 +299,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## DP on Trees
 |  |
 | ------- |
@@ -380,6 +381,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1021-remove-outermost-parentheses) |
 | [1392-longest-happy-prefix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1392-longest-happy-prefix) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
@@ -427,6 +429,7 @@
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Shortest Path
 |  |
 | ------- |
