@@ -19,6 +19,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0802-find-eventual-safe-states) |
@@ -37,6 +38,7 @@
 | [0210-course-schedule-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0802-find-eventual-safe-states) |
@@ -52,6 +54,7 @@
 | [0130-surrounded-regions](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -90,6 +93,7 @@
 | [0283-move-zeroes](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0283-move-zeroes) |
 | [0542-01-matrix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0560-subarray-sum-equals-k) |
+| [0721-accounts-merge](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -156,6 +160,7 @@
 | [0229-majority-element-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0560-subarray-sum-equals-k) |
+| [0721-accounts-merge](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0721-accounts-merge) |
 ## Binary Search
 |  |
 | ------- |
@@ -173,6 +178,7 @@
 | [0169-majority-element](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0268-missing-number) |
+| [0721-accounts-merge](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0721-accounts-merge) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -348,6 +354,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0686-repeated-string-match) |
+| [0721-accounts-merge](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0721-accounts-merge) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1392-longest-happy-prefix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1392-longest-happy-prefix) |
 ## String Matching
