@@ -120,6 +120,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1903-largest-odd-number-in-string) |
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0152-maximum-product-subarray) |
@@ -446,4 +448,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
