@@ -100,6 +100,7 @@
 | [1020-number-of-enclaves](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1631-path-with-minimum-effort) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
