@@ -119,6 +119,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0268-missing-number) |
+| [1903-largest-odd-number-in-string](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -362,6 +363,7 @@
 | [0721-accounts-merge](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0721-accounts-merge) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1392-longest-happy-prefix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1392-longest-happy-prefix) |
+| [1903-largest-odd-number-in-string](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
 | ------- |
@@ -402,6 +404,7 @@
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1903-largest-odd-number-in-string](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1903-largest-odd-number-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
