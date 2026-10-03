@@ -164,6 +164,7 @@
 | [0169-majority-element](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0721-accounts-merge) |
@@ -183,6 +184,7 @@
 | [0088-merge-sorted-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0268-missing-number) |
 | [0721-accounts-merge](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0721-accounts-merge) |
 ## Divide and Conquer
@@ -362,6 +364,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0214-shortest-palindrome) |
+| [0242-valid-anagram](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0344-reverse-string) |
 | [0686-repeated-string-match](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0721-accounts-merge) |
