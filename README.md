@@ -120,6 +120,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0268-missing-number) |
@@ -175,6 +176,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0268-missing-number) |
 | [1631-path-with-minimum-effort](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1631-path-with-minimum-effort) |
 ## Bit Manipulation
@@ -452,4 +454,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0070-climbing-stairs) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
