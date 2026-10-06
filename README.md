@@ -4,6 +4,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0100-same-tree) |
@@ -81,6 +82,7 @@
 | [0053-maximum-subarray](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -110,6 +112,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0542-01-matrix) |
@@ -379,6 +382,7 @@
 | [0008-string-to-integer-atoi](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0038-count-and-say) |
+| [0079-word-search](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0205-isomorphic-strings) |
@@ -463,4 +467,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0069-sqrtx) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
