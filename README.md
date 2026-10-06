@@ -79,6 +79,7 @@
 | [0014-longest-common-prefix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0031-next-permutation) |
+| [0051-n-queens](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0075-sort-colors) |
@@ -470,5 +471,10 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0079-word-search) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
