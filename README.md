@@ -99,6 +99,7 @@
 | [0229-majority-element-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0721-accounts-merge) |
@@ -161,6 +162,7 @@
 | [0119-pascals-triangle-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0542-01-matrix) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Hash Table
@@ -204,6 +206,7 @@
 | [0229-majority-element-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0435-non-overlapping-intervals) |
 | [0721-accounts-merge](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0721-accounts-merge) |
 ## Divide and Conquer
 |  |
@@ -441,6 +444,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0435-non-overlapping-intervals) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1903-largest-odd-number-in-string) |
 ## Bracket Sequences
