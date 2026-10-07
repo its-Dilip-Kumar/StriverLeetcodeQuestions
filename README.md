@@ -190,6 +190,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0268-missing-number) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sorting
 |  |
 | ------- |
