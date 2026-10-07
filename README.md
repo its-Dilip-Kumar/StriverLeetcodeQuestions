@@ -83,6 +83,7 @@
 | [0053-maximum-subarray](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -190,6 +191,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -475,6 +477,7 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0079-word-search) |
 ## Algorithm X
 |  |
