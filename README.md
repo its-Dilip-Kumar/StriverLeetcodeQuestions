@@ -108,6 +108,7 @@
 | [0733-flood-fill](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -194,6 +195,7 @@
 | [0069-sqrtx](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1631-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
@@ -395,6 +397,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1004-max-consecutive-ones-iii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## String
 |  |
@@ -502,4 +505,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0051-n-queens) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
