@@ -107,6 +107,7 @@
 | [0721-accounts-merge](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0875-koko-eating-bananas) |
+| [0930-binary-subarrays-with-sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -189,6 +190,7 @@
 | [0268-missing-number](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0721-accounts-merge) |
+| [0930-binary-subarrays-with-sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0930-binary-subarrays-with-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -397,6 +399,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1004-max-consecutive-ones-iii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## String
@@ -508,5 +511,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
