@@ -90,6 +90,7 @@
 | [0119-pascals-triangle-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0189-rotate-array) |
@@ -189,6 +190,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sorting
