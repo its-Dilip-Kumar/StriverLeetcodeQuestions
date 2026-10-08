@@ -102,6 +102,7 @@
 | [0268-missing-number](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0435-non-overlapping-intervals) |
+| [0496-next-greater-element-i](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0560-subarray-sum-equals-k) |
@@ -189,6 +190,7 @@
 | [0229-majority-element-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0721-accounts-merge) |
 | [0930-binary-subarrays-with-sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0930-binary-subarrays-with-sum) |
@@ -330,6 +332,7 @@
 | [0225-implement-stack-using-queues](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -374,6 +377,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Linked List
