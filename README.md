@@ -332,6 +332,7 @@
 | [0225-implement-stack-using-queues](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0678-valid-parenthesis-string) |
@@ -377,6 +378,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -424,6 +426,7 @@
 | [0214-shortest-palindrome](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0721-accounts-merge) |
@@ -471,6 +474,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
