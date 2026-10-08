@@ -79,6 +79,7 @@
 | [0014-longest-common-prefix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0056-merge-intervals) |
@@ -147,6 +148,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0125-valid-palindrome) |
@@ -165,6 +167,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0119-pascals-triangle-ii) |
@@ -327,6 +330,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0155-min-stack) |
@@ -379,6 +383,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0503-next-greater-element-ii) |
