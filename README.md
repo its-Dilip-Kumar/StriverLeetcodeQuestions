@@ -327,6 +327,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -518,8 +519,10 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
