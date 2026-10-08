@@ -326,6 +326,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -513,4 +514,12 @@
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1004-max-consecutive-ones-iii) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
