@@ -89,6 +89,7 @@
 | [0078-subsets](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -127,6 +128,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0542-01-matrix) |
@@ -172,6 +174,7 @@
 | [0042-trapping-rain-water](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0152-maximum-product-subarray) |
@@ -335,6 +338,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0155-min-stack) |
@@ -390,6 +394,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0503-next-greater-element-ii) |
