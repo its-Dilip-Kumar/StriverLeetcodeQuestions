@@ -100,6 +100,7 @@
 | [0189-rotate-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0435-non-overlapping-intervals) |
@@ -354,6 +355,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0239-sliding-window-maximum) |
 | [1631-path-with-minimum-effort](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1631-path-with-minimum-effort) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Dijkstra's Algorithm
@@ -532,6 +534,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0239-sliding-window-maximum) |
 | [0930-binary-subarrays-with-sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1004-max-consecutive-ones-iii) |
 ## Design
@@ -546,8 +549,17 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0239-sliding-window-maximum) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0146-lru-cache) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
