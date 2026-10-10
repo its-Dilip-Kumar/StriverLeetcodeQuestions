@@ -105,6 +105,7 @@
 | [0239-sliding-window-maximum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0283-move-zeroes) |
+| [0416-partition-equal-subset-sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0503-next-greater-element-ii) |
@@ -178,6 +179,7 @@
 | [0119-pascals-triangle-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0152-maximum-product-subarray) |
+| [0416-partition-equal-subset-sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0678-valid-parenthesis-string) |
@@ -578,4 +580,12 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0901-online-stock-span) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
