@@ -105,6 +105,7 @@
 | [0239-sliding-window-maximum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0496-next-greater-element-i) |
@@ -179,6 +180,7 @@
 | [0119-pascals-triangle-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0542-01-matrix) |
@@ -210,6 +212,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0300-longest-increasing-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1631-path-with-minimum-effort) |
@@ -588,4 +591,8 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0416-partition-equal-subset-sum) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
