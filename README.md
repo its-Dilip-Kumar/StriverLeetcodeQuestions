@@ -242,6 +242,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -373,6 +374,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0239-sliding-window-maximum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -419,6 +421,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0146-lru-cache) |
@@ -615,4 +618,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
