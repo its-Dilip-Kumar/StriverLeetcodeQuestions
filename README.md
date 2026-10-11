@@ -122,6 +122,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1331-rank-transform-of-an-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1331-rank-transform-of-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -209,6 +210,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0721-accounts-merge) |
 | [0930-binary-subarrays-with-sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0930-binary-subarrays-with-sum) |
+| [1331-rank-transform-of-an-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1331-rank-transform-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -238,6 +240,7 @@
 | [0268-missing-number](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0435-non-overlapping-intervals) |
 | [0721-accounts-merge](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0721-accounts-merge) |
+| [1331-rank-transform-of-an-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1331-rank-transform-of-an-array) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Divide and Conquer
 |  |
