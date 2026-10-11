@@ -124,6 +124,7 @@
 | [1020-number-of-enclaves](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1331-rank-transform-of-an-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1331-rank-transform-of-an-array) |
+| [1463-cherry-pickup-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -142,6 +143,7 @@
 | [0994-rotting-oranges](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1463-cherry-pickup-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1631-path-with-minimum-effort) |
 ## Math
 |  |
@@ -192,6 +194,7 @@
 | [0678-valid-parenthesis-string](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0678-valid-parenthesis-string) |
 | [0931-minimum-falling-path-sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0931-minimum-falling-path-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1463-cherry-pickup-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1463-cherry-pickup-ii) |
 ## Hash Table
 |  |
 | ------- |
