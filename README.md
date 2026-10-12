@@ -101,6 +101,7 @@
 | [0169-majority-element](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0239-sliding-window-maximum) |
@@ -153,6 +154,7 @@
 | [0069-sqrtx](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
@@ -636,4 +638,24 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0023-merge-k-sorted-lists) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
