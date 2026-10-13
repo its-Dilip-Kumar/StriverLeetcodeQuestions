@@ -4,13 +4,11 @@ class Solution {
         nums[i]=nums[j];
         nums[j]=temp;
     }
-    public static void reverse(int i,int j,int[] nums){
-        int left=i;
-        int right=j;
-        while(left<=right){
-            swap(left,right,nums);
-            left++;
-            right--;
+    public static void reverse(int start,int end,int[] nums){
+        while(start<=end){
+            swap(start,end,nums);
+            start++;
+            end--;
         }
     }
     public void nextPermutation(int[] nums) {
