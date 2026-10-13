@@ -77,6 +77,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0042-trapping-rain-water) |
@@ -161,6 +162,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0031-next-permutation) |
@@ -241,6 +243,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0088-merge-sorted-array) |
