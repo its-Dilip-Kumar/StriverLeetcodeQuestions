@@ -25,6 +25,7 @@
 | [0733-flood-fill](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0802-find-eventual-safe-states) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -46,6 +47,7 @@
 | [0733-flood-fill](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0802-find-eventual-safe-states) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1020-number-of-enclaves) |
@@ -223,6 +225,7 @@
 | [0496-next-greater-element-i](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0721-accounts-merge) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0930-binary-subarrays-with-sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1331-rank-transform-of-an-array) |
@@ -339,6 +342,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
@@ -362,6 +366,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Database
