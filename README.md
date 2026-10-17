@@ -124,6 +124,7 @@
 | [0721-accounts-merge](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0994-rotting-oranges) |
@@ -227,6 +228,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0904-fruit-into-baskets](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1331-rank-transform-of-an-array) |
@@ -598,6 +600,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0239-sliding-window-maximum) |
+| [0904-fruit-into-baskets](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1004-max-consecutive-ones-iii) |
 ## Design
