@@ -12,10 +12,9 @@ class Solution {
     public int[][] updateMatrix(int[][] mat) {
         int n=mat.length;
         int m=mat[0].length;
-        boolean[][] visited=new boolean[n][m];
         Queue<Pair> q=new LinkedList<>();
+        boolean[][] visited=new boolean[n][m];
         int[][] distance=new int[n][m];
-
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(mat[i][j]==0){
@@ -30,21 +29,23 @@ class Solution {
         int[] dc={0,0,-1,1};
 
         while(!q.isEmpty()){
-            Pair node=q.remove();
-            int r=node.row;
-            int c=node.col;
-            int d=node.dist;
-            distance[r][c]=d;
+            Pair curr=q.remove();
+            int row=curr.row;
+            int col=curr.col;
+            int d=curr.dist;
+
+            distance[row][col]=d;
 
             for(int i=0;i<4;i++){
-                int delrow=r+dr[i];
-                int delcol=c+dc[i];
+                int delrow=row+dr[i];
+                int delcol=col+dc[i];
+
                 if(delrow>=0 && delrow<n && delcol>=0 && delcol<m && !visited[delrow][delcol]){
                     visited[delrow][delcol]=true;
                     q.add(new Pair(delrow,delcol,d+1));
                 }
             }
         }
-                    return distance;
+        return distance;
     }
 }
