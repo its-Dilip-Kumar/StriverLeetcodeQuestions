@@ -8,14 +8,12 @@ class Pair{
         this.time=time;
     }
 }
-
 class Solution {
     public int orangesRotting(int[][] grid) {
         int n=grid.length;
         int m=grid[0].length;
         Queue<Pair> q=new LinkedList<>();
         int[][] visited=new int[n][m];
-
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(grid[i][j]==2){
@@ -32,18 +30,18 @@ class Solution {
 
         int tm=0;
         while(!q.isEmpty()){
-            Pair node=q.remove();
-            int r=node.row;
-            int c=node.col;
-            int t=node.time;
+            Pair curr=q.remove();
+            int row=curr.row;
+            int col=curr.col;
+            int time=curr.time;
+            
+            tm=Math.max(tm,time);
 
-            tm=Math.max(tm,t);
             for(int i=0;i<4;i++){
-                int delrow=r+dr[i];
-                int delcol=c+dc[i];
-
+                int delrow=row+dr[i];
+                int delcol=col+dc[i];
                 if(delrow>=0 && delrow<n && delcol>=0 && delcol<m && grid[delrow][delcol]==1 && visited[delrow][delcol]!=2){
-                    q.add(new Pair(delrow,delcol,t+1));
+                    q.add(new Pair(delrow,delcol,time+1));
                     visited[delrow][delcol]=2;
                 }
             }
