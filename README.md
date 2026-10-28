@@ -25,6 +25,7 @@
 | [0721-accounts-merge](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -48,6 +49,7 @@
 | [0721-accounts-merge](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -75,6 +77,7 @@
 | [0210-course-schedule-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0802-find-eventual-safe-states) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -206,6 +209,7 @@
 | [0542-01-matrix](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0678-valid-parenthesis-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0931-minimum-falling-path-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1463-cherry-pickup-ii) |
@@ -416,6 +420,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0239-sliding-window-maximum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1631-path-with-minimum-effort) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Dijkstra's Algorithm
@@ -570,6 +575,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/its-Dilip-Kumar/StriverLeetcodeQuestions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Bellman–Ford Algorithm
 |  |
